@@ -1,0 +1,48 @@
+{
+  "app_name": {
+    "ur": "یاد الٰہی - سیرت",
+    "en": "Yade-Ilahi - Seerat"
+  },
+  "modules": [
+    {
+      "id": "seerat_un_nabi",
+      "title": {
+        "ur": "سیرت النبی ﷺ",
+        "en": "Seerat-un-Nabi ﷺ"
+      },
+      "file": "seerat.json"
+    },
+    {
+      "id": "seerat_abu_bakr",
+      "title": {
+        "ur": "سیرت ابوبکر صدیق رضی اللہ عنہ",
+        "en": "Seerat Abu Bakr Siddiq رضی اللہ عنہ"
+      },
+      "file": "seerat_abu_bakr.json"
+    },
+    {
+      "id": "seerat_umar",
+      "title": {
+        "ur": "سیرت عمر فاروق رضی اللہ عنہ",
+        "en": "Seerat Umar Farooq رضی اللہ عنہ"
+      },
+      "file": "seerat_umar.json"
+    },
+    {
+      "id": "seerat_usman",
+      "title": {
+        "ur": "سیرت عثمان غنی رضی اللہ عنہ",
+        "en": "Seerat Usman Ghani رضی اللہ عنہ"
+      },
+      "file": "seerat_usman.json"
+    },
+    {
+      "id": "seerat_ali",
+      "title": {
+        "ur": "سیرت علی مرتضیٰ رضی اللہ عنہ",
+        "en": "Seerat Ali Murtaza رضی اللہ عنہ"
+      },
+      "file": "seerat_ali.json"
+    }
+  ]
+}
