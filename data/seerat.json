@@ -7,7 +7,7 @@
       "category": "seerat_introduction",
       "chapter_id": 1,
       "title": {
-        "ur": "باب تعارف و نسب نامہ",
+        "ur": " تعارف و نسب نامہ",
         "hi": "तआरुफ़ व नसबनामा (परिचय व वंशावली)",
         "en": "Introduction & Lineage"
       },
@@ -59,7 +59,7 @@
       "category": "seerat_character",
       "chapter_id": 2,
       "title": {
-        "ur": "باب اخلاق و عادات",
+        "ur": " اخلاق و عادات",
         "hi": "बाब-ए-अख़्लाक़ व आदात (चरित्र व आदतें)",
         "en": "Character & Habits"
       },
@@ -131,7 +131,7 @@
       "category": "seerat_life_events",
       "chapter_id": 3,
       "title": {
-        "ur": "باب زندگی کے اہم واقعات",
+        "ur": " زندگی کے اہم واقعات",
         "hi": "बाब-ए-ज़िंदगी के अहम वाक़ियात (زندگی کے اہم واقعات)",
         "en": "Major Life Events"
       },
@@ -203,7 +203,7 @@
       "category": "seerat_sayings",
       "chapter_id": 4,
       "title": {
-        "ur": "باب آپ ﷺ کے قیمتی ارشادات",
+        "ur": " آپ ﷺ کے قیمتی ارشادات",
         "hi": "बाब-ए-आप ﷺ के कीमती इरशादात (فرامین)",
         "en": "Precious Sayings of the Prophet ﷺ"
       },
@@ -275,7 +275,7 @@
       "category": "seerat_merits",
       "chapter_id": 5,
       "title": {
-        "ur": "باب آپ ﷺ کی فضیلت و خصوصیات",
+        "ur": " آپ ﷺ کی فضیلت و خصوصیات",
         "hi": "बाब-ए-आप ﷺ की फज़ीलत व ख़ुसूसियात (فضیلت و خصوصیات)",
         "en": "Merits & Special Characteristics"
       },
@@ -347,7 +347,7 @@
       "category": "seerat_durood_salam",
       "chapter_id": 6,
       "title": {
-        "ur": "باب درود و سلام",
+        "ur": " درود و سلام",
         "hi": "बाब-ए-दुरूद व सलाम",
         "en": "Durood & Salam (Blessings upon the Prophet)"
       },

@@ -7,7 +7,7 @@
       "category": "abu_bakr_introduction",
       "chapter_id": 1,
       "title": {
-        "ur": "باب تعارف و نسب نامہ",
+        "ur": " تعارف و نسب نامہ",
         "hi": "तआरुफ़ व नसबनामा (परिचय व वंशावली)",
         "en": "Introduction & Lineage"
       },
@@ -59,7 +59,7 @@
       "category": "abu_bakr_virtues",
       "chapter_id": 2,
       "title": {
-        "ur": "باب فضائل و مناقب",
+        "ur": " فضائل و مناقب",
         "hi": "बाब-ए-फ़ज़ाइल व मनाक़िब",
         "en": "Virtues & Excellences"
       },
@@ -151,7 +151,7 @@
       "category": "abu_bakr_generosity",
       "chapter_id": 3,
       "title": {
-        "ur": "باب سخاوت و ایثار",
+        "ur": " سخاوت و ایثار",
         "hi": "बाब-ए-सख़ावत व ईसार",
         "en": "Generosity & Selflessness"
       },
@@ -183,7 +183,7 @@
       "category": "abu_bakr_caliphate",
       "chapter_id": 4,
       "title": {
-        "ur": "باب خلافت و عدل",
+        "ur": " خلافت و عدل",
         "hi": "बाब-ए-ख़िलाफ़त व अद्ल",
         "en": "Caliphate & Justice"
       },
@@ -255,7 +255,7 @@
       "category": "abu_bakr_sayings",
       "chapter_id": 5,
       "title": {
-        "ur": "باب اقوال و ارشادات",
+        "ur": " اقوال و ارشادات",
         "hi": "बाब-ए-अक़वाल व इरशादात",
         "en": "Sayings & Teachings"
       },
@@ -327,7 +327,7 @@
       "category": "abu_bakr_demise",
       "chapter_id": 6,
       "title": {
-        "ur": "باب وفات و وصیت",
+        "ur": " وفات و وصیت",
         "hi": "बाब-ए-वफ़ात व वसिय्यत",
         "en": "Demise & Testament"
       },

@@ -7,7 +7,7 @@
       "category": "umar_introduction",
       "chapter_id": 1,
       "title": {
-        "ur": "باب تعارف و نسب نامہ",
+        "ur": " تعارف و نسب نامہ",
         "hi": "तआरुफ़ व नसबनामा (परिचय व वंशावली)",
         "en": "Introduction & Lineage"
       },
@@ -59,7 +59,7 @@
       "category": "umar_acceptance_islam",
       "chapter_id": 2,
       "title": {
-        "ur": "باب قبول اسلام",
+        "ur": " قبول اسلام",
         "hi": "बाब-ए-क़ुबूल-ए-इस्लाम",
         "en": "Acceptance of Islam"
       },
@@ -111,7 +111,7 @@
       "category": "umar_virtues",
       "chapter_id": 3,
       "title": {
-        "ur": "باب فضائل و مناقب",
+        "ur": " فضائل و مناقب",
         "hi": "बाब-ए-फ़ज़ाइल व मनाक़िब",
         "en": "Virtues & Excellences"
       },
@@ -203,7 +203,7 @@
       "category": "umar_justice",
       "chapter_id": 4,
       "title": {
-        "ur": "باب عدل و انصاف",
+        "ur": " عدل و انصاف",
         "hi": "बाब-ए-अद्ल व इन्साफ़",
         "en": "Justice & Fairness"
       },
@@ -255,7 +255,7 @@
       "category": "umar_caliphate",
       "chapter_id": 5,
       "title": {
-        "ur": "باب خلافت و عہد حکومت",
+        "ur": " خلافت و عہد حکومت",
         "hi": "बाब-ए-ख़िलाफ़त व अहद-ए-हुकूमत",
         "en": "Caliphate & Governance"
       },
@@ -327,7 +327,7 @@
       "category": "umar_sayings",
       "chapter_id": 6,
       "title": {
-        "ur": "باب اقوال و ارشادات",
+        "ur": " اقوال و ارشادات",
         "hi": "बाब-ए-अक़वाल व इरशादात",
         "en": "Sayings & Teachings"
       },
@@ -419,7 +419,7 @@
       "category": "umar_demise",
       "chapter_id": 7,
       "title": {
-        "ur": "باب وفات و شہادت",
+        "ur": " وفات و شہادت",
         "hi": "बाब-ए-वफ़ात व शहादत",
         "en": "Demise & Martyrdom"
       },
